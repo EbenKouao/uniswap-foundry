@@ -26,6 +26,8 @@ forge test --fork-url <your_rpc_url> -vvvv
 forge test --fork-url <your_rpc_url> --fork-block-number
 
 ```
+More Info to create an [RPC URL from Alchemy](https://www.alchemy.com/)
+
 
 ## Flashloans
 
