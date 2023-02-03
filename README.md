@@ -30,6 +30,9 @@ More Info to create an [RPC URL from Alchemy](https://www.alchemy.com/)
 
 ## Flashloans
 
+![Flashloan Contract Flow](./flashloan-diagram.png)
+
+
 ```
 forge test --match-test testFlashloanArbitrageTrade --fork-url <your_rpc_url> -vvvv
 ```
