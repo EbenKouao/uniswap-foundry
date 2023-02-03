@@ -12,3 +12,6 @@ docs/
 
 # Dotenv file
 .env
+
+# Custom
+_README.md
