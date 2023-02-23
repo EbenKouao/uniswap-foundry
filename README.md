@@ -8,6 +8,7 @@ Features Implemented:
   - UniswapV2Router Helpers
 - UniswapV3 (Todo - Contributors Welcome) 
 
+[More Info on DeFi Flash Loans](https://smartbuilds.io/defi-flashloans-explained-uniswap-foundry/)
 
 ## Setup: Foundry Testing Environment
 
