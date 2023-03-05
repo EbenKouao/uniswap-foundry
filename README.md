@@ -6,6 +6,7 @@ Features Implemented:
 - UniswapV2 
   - Flashloans - with arbitrage trade strategy scaffold
   - UniswapV2Router Helpers
+  - ERC20 Permit Pool Interaction Flow (todo)
 - UniswapV3 (Todo - Contributors Welcome) 
 
 [More Info on DeFi Flash Loans](https://smartbuilds.io/defi-flashloans-explained-uniswap-foundry/)
