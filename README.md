@@ -8,6 +8,7 @@ Features Implemented:
   - UniswapV2Router Helpers
   - ERC20 Permit Pool Interaction Flow (todo)
 - UniswapV3 (Todo - Contributors Welcome) 
+- ERC20 Permit (Todo)
 
 [More Info on DeFi Flash Loans](https://smartbuilds.io/defi-flashloans-explained-uniswap-foundry/)
 
