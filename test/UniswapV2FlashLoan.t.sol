@@ -70,7 +70,7 @@ contract UniswapV2FlashLoanTest is Test, UniswapV2FlashLoan {
         emit Log("amounts[0] WETH in", amounts[0]);
         emit Log("amounts[1] _outputTokenAddressBorrow out", amounts[1]);
 
-        // check balance of wETH
+        // check balance of WETH
         uint256 wethBalance = wETHToken.balanceOf(address(this));
         uint256 daiBalance = daiToken.balanceOf(address(this));
 

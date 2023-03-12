@@ -139,7 +139,7 @@ contract UniswapV2RouterHelpersTest is Test {
         path[1] = DAI;
 
         uniswapV2RouterHelpers.convertETHtoWETH{value: ethToSwap}();
-        uint256 wethBalance = IERC20(WETH).balanceOf(address(user1)); // wEth Balance of user
+        uint256 wethBalance = IERC20(WETH).balanceOf(address(user1)); // WETH Balance of user
 
         // You'll need to send tokens back that you have as WETH
         IERC20(address(WETH)).transfer(address(uniswapV2RouterHelpers), wethBalance);
