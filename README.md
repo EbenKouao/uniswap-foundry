@@ -7,6 +7,7 @@ Features Implemented:
   - Flashloans - with arbitrage trade strategy scaffold
   - UniswapV2Router Helpers
   - ERC20 Permit Pool Interaction Flow (todo)
+  - Multiple DEX Swaps
 - UniswapV3 (Todo - Contributors Welcome) 
 - ERC20 Permit (Todo)
 
