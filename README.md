@@ -1,6 +1,6 @@
 # Uniswap Foundry Scaffold
 
-Experimental Scaffold to interact with UniswapV2 Protocol with Foundry Tests.
+Experimental Scaffold to interact with UniswapV2 Protocol with Foundry tests.
 
 Features Implemented:
 - UniswapV2 
