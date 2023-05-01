@@ -11,7 +11,7 @@ Features Implemented:
 - UniswapV3 (Todo - Contributors Welcome) 
 - ERC20 Permit (Todo)
 
-[More Info on DeFi Flash Loans](https://smartbuilds.io/defi-flashloans-explained-uniswap-foundry/)
+[More info on DeFi Flash Loans](https://smartbuilds.io/defi-flashloans-explained-uniswap-foundry/)
 
 ## Setup: Foundry Testing Environment
 
