@@ -9,9 +9,10 @@ Features Implemented::
   - ERC20 Permit Pool Interaction Flow (todo)
   - Multiple DEX Swaps
 - UniswapV3 (Todo - Contributors Welcome) 
+- UniswapV3 Control Flows:
 - ERC20 Permit (Todo)
 
-[More Info on DeFi Flash Loans](https://smartbuilds.io/defi-flashloans-explained-uniswap-foundry/)
+[More info on DeFi Flash Loans](https://smartbuilds.io/defi-flashloans-explained-uniswap-foundry/)
 
 ## Setup: Foundry Testing Environment
 
@@ -29,7 +30,7 @@ forge test
 forge test --fork-url <your_rpc_url> -vvvv
 forge test --fork-url <your_rpc_url> --fork-block-number
 ```
-More Info to create an [RPC URL from Alchemy](https://www.alchemy.com/)
+More info to create an [RPC URL from Alchemy](https://www.alchemy.com/)
 
 
 ## Flashloans
